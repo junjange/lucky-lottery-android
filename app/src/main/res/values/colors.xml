@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ballstrok">#112DCA</color>
+    <color name="ballsolid">#03A9F4</color>
+    <color name="Red_ballstrok">#DD1A0C</color>
+    <color name="red_ballsolid">#F44336</color>
+    <color name="orange_ballstrok">#FF5722</color>
+    <color name="orange_ballsolid">#FF9800</color>
+    <color name="yellow_ballstrok">#FFC107</color>
+    <color name="yellow_ballsolid">#FFEB3B</color>
+    <color name="purple_ballstrok">#673AB7</color>
+    <color name="purple_ballsolid">#9C27B0</color>
+    <color name="blue_ballstrok">#2196F3</color>
+    <color name="dd">#2196F3</color>
+    <color name="bule_ballsolid">#00BCD4</color>
+    <color name="green_ballstrok">#8BC34A</color>
+    <color name="green_ballsolid">#CDDC39</color>
+    <color name="black_solid">#2C000000</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+</resources>
