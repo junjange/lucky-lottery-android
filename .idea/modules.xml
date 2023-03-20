@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LuckyLottery.iml" filepath="$PROJECT_DIR$/.idea/modules/LuckyLottery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
