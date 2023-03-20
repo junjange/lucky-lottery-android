@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:background="#ffffff"
+    android:elevation="5dp"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:id="@+id/btn_top_navi_lotto640_tab"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:text="로또 6/45"
+            android:textSize="15sp"
+            android:textColor="#8E000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/btn_top_navi_lotto720_tab"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+
+        <TextView
+            android:text="연금복권+720"
+            android:textSize="15sp"
+            android:textColor="#8E000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" />
+    </RelativeLayout>
+// 메가 밀리언 개발중..
+<!--    <RelativeLayout-->
+<!--        android:id="@+id/btn_top_navi_america_tab"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_weight="1">-->
+
+<!--        <TextView-->
+<!--            android:text="메가 밀리언"-->
+<!--            android:textSize="15dp"-->
+<!--            android:textColor="@color/green_ballstrok"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_centerInParent="true"-->
+<!--            android:paddingBottom="10dp"-->
+<!--            android:paddingTop="10dp" />-->
+<!--    </RelativeLayout>-->
+
+
+</LinearLayout>

@@ -1,17 +1,19 @@
 <component name="libraryTable">
   <library name="Gradle: com.airbnb.android:lottie:3.4.2@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2bf9a2cce7f2bf90329d644d3ad0420/lottie-3.4.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2eac3d2e28320811ae8ef4ee960958df/jetified-lottie-3.4.2/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2bf9a2cce7f2bf90329d644d3ad0420/lottie-3.4.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2bf9a2cce7f2bf90329d644d3ad0420/lottie-3.4.2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2bf9a2cce7f2bf90329d644d3ad0420/lottie-3.4.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2eac3d2e28320811ae8ef4ee960958df/jetified-lottie-3.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2eac3d2e28320811ae8ef4ee960958df/jetified-lottie-3.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2eac3d2e28320811ae8ef4ee960958df/jetified-lottie-3.4.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.4.2/2b32258bc3a428e19a8722eea8f5772cd6522440/lottie-3.4.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.4.2/2b32258bc3a428e19a8722eea8f5772cd6522440/lottie-3.4.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.4.2/9189602c45cc5d327792af104ecd5babd4a5d133/lottie-3.4.2-sources.jar!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.4.2/9189602c45cc5d327792af104ecd5babd4a5d133/lottie-3.4.2-sources.jar!/" />
     </SOURCES>
   </library>

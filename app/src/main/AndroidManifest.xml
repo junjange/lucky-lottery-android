@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.junjange.lotto3" >
+
+    <!--인터넷 권한 허용 -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <!--gps 위치 권한 허용 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!-- <application
+       android:usesCleartextTraffic="true" 인터넷 웹뷰로 불러올때 s를 만들어준다?
+       앱이 일반 텍스트 HTTP와 같은 일반 텍스트 네트워크 트래픽을 사용하는지 여부를 나타냅니다.
+       -->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/_clover"
+        android:label="행운복권"
+        android:roundIcon="@drawable/_clover"
+        android:supportsRtl="true"
+        android:textStyle="bold"
+        android:usesCleartextTraffic="true"
+        android:theme="@style/AppTheme">
+
+
+
+        <!-- 애드몹 메타 데이터 -->
+        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+        <!-- ca-app-pub-8474199369670344~3952790903-->
+        <!--xml id : ca-app-pub-8474199369670344/8650583815-->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-8474199369670344~3952790903"/>
+
+
+        <activity android:name=".QRcode.QRcodeActivity"
+            android:label="당첨결과">
+        </activity>
+        <activity
+            android:name=".RandomNumber.AmericaActivity"
+            android:label="Mega Millions"
+            android:textStyle="bold" />
+        <activity
+            android:name=".RandomNumber.Lotto720Activity"
+            android:label="연금 복권 720+"
+            android:textStyle="bold" />
+        <activity
+            android:name=".RandomNumber.Lotto645Activity"
+            android:label="로또 6/45"
+            android:textStyle="bold" />
+        <activity
+            android:name=".StartActivity"
+            android:theme="@style/Theme.Design.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <!-- qr코드 세로로 바꾸기.. -->
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:screenOrientation="portrait"
+            tools:replace="screenOrientation" />
+    </application>
+
+</manifest>

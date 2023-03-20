@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LuckyLottery.iml" filepath="$PROJECT_DIR$/.idea/modules/LuckyLottery.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckyLottery.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lotto3.iml" filepath="$PROJECT_DIR$/.idea/modules/Lotto3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lotto3.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lotto3.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lotto3.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lotto3.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lotto3.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lotto3.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lotto3.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lotto3.app.unitTest.iml" />
     </modules>
   </component>
 </project>

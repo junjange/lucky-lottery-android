@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/selector_bottom_navi_home_icon"
+        android:title="@string/title_home"
+        />
+
+    <item
+        android:id="@+id/navigation_mynumber"
+        android:icon="@drawable/selector_bottom_navi_mynumber_icon"
+        android:title="@string/title_mynumber"/>
+
+    <item
+        android:id="@+id/navigation_randomnumber"
+        android:icon="@drawable/selector_bottom_navi_randomnumber_icon"
+        android:title="@string/title_randomnumber" />
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/selector_bottom_navi_news_icon"
+        android:title="@string/title_news" />
+
+<!--    <item android:id="@+id/action_btn1"-->
+<!--        android:title="QR코드"-->
+<!--        android:onClick="startBarcodeReader"-->
+<!--        app:showAsAction="always" />-->
+
+<!--    <item android:id="@+id/action_btn2"-->
+<!--        android:title="구매"-->
+<!--        app:showAsAction="always" />-->
+
+
+</menu>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.junjange.lotto3.ui.home.HomeFragment"
+        android:label="회차별 당첨번호"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_mynumber"
+        android:name="com.junjange.lotto3.ui.mynumber.MyNumberFragment"
+        android:label="내 번호"
+        tools:layout="@layout/fragment_my_number"/>
+
+    <fragment
+        android:id="@+id/navigation_randomnumber"
+        android:name="com.junjange.lotto3.ui.randomnumber.RandomNumberFragment"
+        android:label="랜덤 번호"
+        tools:layout="@layout/fragment_random_number" />
+
+    <fragment
+        android:id="@+id/navigation_news"
+        android:name="com.junjange.lotto3.ui.news.NewsFragment"
+        android:label="복권 판매점"
+        tools:layout="@layout/fragment_news"/>
+
+
+</navigation>
